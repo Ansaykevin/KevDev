@@ -431,7 +431,7 @@ div.contact-MobileRight ul li a{
         display: block;
         position: absolute;
         margin: 50px -48px;
-        padding: 0 338px;
+/*         padding: 0 338px; */
         background-color: rgba(0, 0, 0, 0.953);
     }
     div.contact-btn-main .contact-btn-txt{
@@ -664,6 +664,7 @@ div.contact-MobileRight ul li a{
             padding: 5px 27px;
         }
 }
+
 
 
 
