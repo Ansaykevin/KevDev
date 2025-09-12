@@ -490,6 +490,13 @@ div.about-MobileRight ul li a {
 }
 
 @media only screen and (max-width: 768px) {
+
+    div.about-section-row{
+        display:block;
+    }
+  div.about-containerLeft {
+        width: 100%;
+    }
     div.logo {
         display: none;
     }
@@ -768,4 +775,5 @@ div.about-MobileRight ul li a {
     div.footer-right p {
         font-size: 12px;
     }
+
 }
