@@ -258,7 +258,7 @@ div.name{
 }
 
 div.form-txt{
-    width:50%;
+    width:100%;
 }
 
 div.form-txt .form-name{
@@ -665,6 +665,7 @@ div.contact-MobileRight ul li a{
             padding: 5px 27px;
         }
 }
+
 
 
 
