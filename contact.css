@@ -225,7 +225,7 @@ div.contact-containerRight1{
 }
 div.name input{
     padding: 25px;
-    width: 350px;
+    width: 100%;
     border-radius: 15px;
     border: 4px solid ;
 }
@@ -254,7 +254,13 @@ div.name{
     flex-direction: row;
     gap: 10px;
     margin-bottom: 50px;
+    width:100%
 }
+
+div.form-txt{
+    width:50%;
+}
+
 div.form-txt .form-name{
     display: flex;
     justify-content: flex-start;
@@ -401,7 +407,7 @@ div.contact-MobileRight ul li a{
         width: 60%;
     }
     div.name input{
-        width: 220px;
+        width: 100%;
     }
     div.Message textarea{
         width: 100%;
@@ -461,7 +467,7 @@ div.contact-MobileRight ul li a{
         width: 100%;
     }
     div.name input{
-        width: 270px;
+          width: 100%;
     }
     div.Message textarea{
         width: 100%;
@@ -520,7 +526,7 @@ div.contact-MobileRight ul li a{
         padding: 0px 155px;
     }
     div.name input{
-        width: 270px;
+         width: 100%;
         margin-bottom: 15px;
     }
     div.Message textarea{
@@ -575,7 +581,7 @@ div.contact-MobileRight ul li a{
         font-size: 25px;
     }
     div.name input{
-        width: 215px;
+          width: 100%;
     }
     div.Message textarea{
         width: 100%;
@@ -639,7 +645,7 @@ div.contact-MobileRight ul li a{
         font-size: 14px;
     }
     div.name input{
-        width: 140px;
+         width: 100%;
     }
     div.Message textarea{
         width: 100%;
@@ -659,6 +665,7 @@ div.contact-MobileRight ul li a{
             padding: 5px 27px;
         }
 }
+
 
 
 
