@@ -239,7 +239,7 @@ div.text-field{
 }
 div.Message textarea{
     padding: 20px;
-    width: 700px;
+    width: 100%;
     border-radius: 15px;
     border: 4px solid ;
     position: relative;
@@ -404,7 +404,7 @@ div.contact-MobileRight ul li a{
         width: 220px;
     }
     div.Message textarea{
-        width: 450px;
+        width: 100%;
     }
     section.contact{
         max-width: 920px;
@@ -464,7 +464,7 @@ div.contact-MobileRight ul li a{
         width: 270px;
     }
     div.Message textarea{
-        width: 555px;
+        width: 100%;
     }
     section.container-bottom{
         max-width: 700px;
@@ -524,7 +524,7 @@ div.contact-MobileRight ul li a{
         margin-bottom: 15px;
     }
     div.Message textarea{
-        width: 270px;
+        width: 100%;
     }
     div.name{
         display: block;
@@ -578,7 +578,7 @@ div.contact-MobileRight ul li a{
         width: 215px;
     }
     div.Message textarea{
-        width: 215px;
+        width: 100%;
     }
     div.content-bottom .container-bottom-txt{
         line-height: 40px;
@@ -642,7 +642,7 @@ div.contact-MobileRight ul li a{
         width: 140px;
     }
     div.Message textarea{
-        width: 150px;
+        width: 100%;
     }
      div.content-bottom .container-bottom-txt2{
             font-size: 18px;
@@ -659,6 +659,7 @@ div.contact-MobileRight ul li a{
             padding: 5px 27px;
         }
 }
+
 
 
 
