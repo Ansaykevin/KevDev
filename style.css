@@ -587,6 +587,10 @@ div.about-container-left img{
 
 }
 @media only screen and (max-width: 768px){
+
+    div.home-flex{
+        margin-right:0px;
+    }
     div.container-row{
         display: block;
     }
@@ -875,3 +879,4 @@ div.about-container-left img{
     
 
     }
+
