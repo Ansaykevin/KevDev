@@ -595,7 +595,7 @@ div.about-container-left img{
         display: block;
     }
     div.home-image{
-        width: 91vw;
+/*         width: 91vw; */
         margin-bottom: 30px;
     }
 
@@ -879,5 +879,6 @@ div.about-container-left img{
     
 
     }
+
 
 
