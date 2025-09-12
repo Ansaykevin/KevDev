@@ -132,7 +132,6 @@ div.contact-quality{
 div.contact-quality p{
     display: flex;
     justify-content: center;
-    padding: 0 300px;
     line-height: 28px;
     margin-top: 0;
     margin-bottom: 1rem;
@@ -665,6 +664,7 @@ div.contact-MobileRight ul li a{
             padding: 5px 27px;
         }
 }
+
 
 
 
