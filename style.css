@@ -587,7 +587,9 @@ div.about-container-left img{
 
 }
 @media only screen and (max-width: 768px){
-
+div.home-flex {
+    width: 100%;
+}
     div.home-flex{
         margin-right:0px;
     }
@@ -879,6 +881,7 @@ div.about-container-left img{
     
 
     }
+
 
 
 
