@@ -156,7 +156,7 @@ div.service-title .service-quality {
     display: flex;
     justify-content: center;
     margin-bottom: 15px;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 div.service-contentbox {
@@ -723,4 +723,5 @@ div.service-MobileRight ul li a {
         line-height: 40px;
         font-size: 27px;
     }
+
 }
