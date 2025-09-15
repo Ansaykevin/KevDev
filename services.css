@@ -458,7 +458,8 @@ div.service-MobileRight ul li a {
         display: block;
         position: absolute;
         margin: 50px -48px;
-        padding: 0 338px;
+        display: flex;
+        justify-content: center;
         background-color: rgba(0, 0, 0, 0.953);
     }
 
@@ -725,3 +726,4 @@ div.service-MobileRight ul li a {
     }
 
 }
+
